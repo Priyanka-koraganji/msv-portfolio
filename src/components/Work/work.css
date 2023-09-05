@@ -1,0 +1,14 @@
+.work-page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 10vh;
+}
+
+.work-page div{
+    width:30%;
+}

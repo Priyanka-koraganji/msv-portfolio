@@ -1,0 +1,40 @@
+.event-page {
+    height: 100vh;
+    padding: 10vh;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    color: rgb(106, 8, 106);
+}
+
+.event-images {
+    width:50%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.event-content{
+    box-shadow: 5px 10px 18px  #c4a3c7;
+    margin-left: 2vh;
+    width:50%;
+    background-color: rgb(233, 221, 233);
+    padding: 7vh;
+}
+.event-title{
+    
+    margin: 5vh;
+}
+
+.event-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+    margin: 5vh auto;  
+    color: black;
+}
+
+.footer {
+    color: black;
+    text-align: center;
+    margin-top: 10vh;
+}

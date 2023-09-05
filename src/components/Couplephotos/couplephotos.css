@@ -1,0 +1,16 @@
+.couple {
+    padding:10vh 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.couple div {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    margin-top: 2vh;
+}

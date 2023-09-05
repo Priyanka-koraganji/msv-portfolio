@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&family=Ubuntu:wght@300&display=swap');
+.contact-page {
+
+    padding:20vh 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.contact-page div {
+    width: 50%;
+
+}
+.contact__page-image{
+    box-shadow: 5px 10px 18px  #888888;
+}
+.contact__page-content{
+    text-align: center;
+}

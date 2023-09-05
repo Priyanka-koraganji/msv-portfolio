@@ -1,0 +1,14 @@
+.portraits{
+    padding:10vh 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.portraits div{
+    width:45%;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    margin-top: 2vh;
+}

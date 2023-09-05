@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&family=Ubuntu:wght@300&display=swap');
+.nav__component{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.right-links {
+    position: absolute;
+    right: 5%;
+    font-weight: bold;
+}
+.brand{
+    font-weight: bold;
+    color:yellow;
+}

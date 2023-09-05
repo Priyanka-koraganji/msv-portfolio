@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&family=Ubuntu:wght@300&display=swap');
+.about-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10vh 30vh;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.about-page div {
+    width: 50%;
+}
+
+.profile-header {
+    margin-bottom: 10vh;
+}
+.profile-image{
+    box-shadow: 5px 10px 15px #888888;
+}
